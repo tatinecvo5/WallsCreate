@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\WallsCreate.dll"</Assembly>
+		<AddInId>4D22F24D-8752-4786-A443-CB340D7E66F5</AddInId>
+		<FullClassName>WallsCreate.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание стен</Text>
+	</AddIn>
+</RevitAddIns>
